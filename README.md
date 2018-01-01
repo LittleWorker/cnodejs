@@ -1,21 +1,7 @@
-# cnodejs
+# cnodejs -- vue编程练习项目
 
-> a simple page application based on cnodejs api
+使用vue框架仿写cnodejs社区，完成了部分功能
 
-## Build Setup
+后台接口使用cnodejs社区提供的api
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+主要熟悉了vue-router的使用
